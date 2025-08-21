@@ -8,8 +8,9 @@ This repository consists of 3 projects done during Unified Mentor Data Science i
 
 ![ocd patient dataset](https://github.com/user-attachments/assets/7411a6f3-308a-42f1-ba36-4fb644993246)
 
-Web traffic da[Uploading Web traffic dashboard.pbix…]()
-shboard
-or
+Web traffic dashboard
+
+![suspicious web traffic dashboard power bi](https://github.com/user-attachments/assets/141565af-dd3e-4da2-bd6c-63cf029741f0)
+
 Explore the interactive Power BI dashboard in the below link
 https://app.powerbi.com/groups/me/reports/2e1132b6-9285-481a-9e1d-c042408d4cd7/9b71875d7c3b2e7bbca9?experience=power-bi
